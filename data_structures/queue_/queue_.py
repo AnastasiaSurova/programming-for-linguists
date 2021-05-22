@@ -3,7 +3,7 @@ Programming for linguists
 
 Implementation of the data structure "Queue"
 """
-
+# lab1
 from typing import Iterable
 
 
